@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import marker0 from "../assets/images/map-marker0.png";
 import marker7 from "../assets/images/map-marker7.png";
 import marker13 from "../assets/images/map-marker13.png";
